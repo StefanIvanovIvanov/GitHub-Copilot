@@ -1,0 +1,3 @@
+
+[agent mode]:
+Add a download button to the #file:index.html file above the bar chart, which downloads the bar chart as a png image

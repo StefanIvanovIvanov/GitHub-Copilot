@@ -1,0 +1,6 @@
+
+[agent mode]:
+Update the UI so it reflects the designs in the attached screenshots
+
+[agent mode]:
+The data tab inputs shouldn't be rendered as a table but still follow the designs attached above.
